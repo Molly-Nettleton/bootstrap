@@ -1,0 +1,22 @@
+.hero-image{
+  height:60vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin-bottom: .3em;
+  margin-top:.3em;
+}
+
+.root {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.custom-image{
+  height: 200px;
+  width: 200px;
+  font-size: x-small;
+}
+
+footer{
+  transform: translateY(+10px);
+}
